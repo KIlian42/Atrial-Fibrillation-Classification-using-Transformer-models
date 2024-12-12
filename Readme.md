@@ -2,7 +2,7 @@
 
 This repository contains the research and code (Python) from my master thesis. (2023-2024)
 
-Title: "Single-lead ECG classification based on Transformer models" (feature-based and deep-learning models)
+Title: "Combining Multi-Scale Kernels and Transformer Encoder for ECG classification"
 
 The research utilizes electrocardiogram (ECG) data from the Physionet 2021 challenge: https://physionet.org/content/challenge-2021/1.0.3/.
 
