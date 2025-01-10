@@ -1,4 +1,4 @@
-# Atrial Fibrillation classification using ensembled models
+# Combining Multi-Scale Kernels and Transformer Encoder for ECG classification
 
 This repository contains the research and code (Python) from my master thesis. (2023-2024)
 
